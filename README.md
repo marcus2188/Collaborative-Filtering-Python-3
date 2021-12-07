@@ -1,4 +1,6 @@
 # Collaborative-Filtering-Python-3
+![item_based_cf](https://user-images.githubusercontent.com/57174326/144978083-e2c86c21-bb20-4aef-8061-a882a7d9fd6a.jpg)
+
 A recommendation system represents a subclass of information filtering systems which seeks to predict the user preferences. Nowadays, the modern recommender systems typically generate a list of recommendations in one of the three methods through Memory-based collaborative filtering (CF), Model-based collaborative filtering (CF) and Matrix Factorization using Deep Learning(Neural Collaborative Filtering).
 
 
